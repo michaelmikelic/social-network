@@ -14,7 +14,7 @@ This is an API for a social network web application where users can share their 
 
 ## Installation
 
-* Visit the github profile [https://michaelmikelic.github.io/social-network/](https://michaelmikelic.github.io/social-network/). 
+* Visit the github profile [Mikelic Github](https://michaelmikelic.github.io/social-network/). 
 
 
 ## Usage
@@ -23,6 +23,7 @@ After you clone the code from the github profile above, then you run 'npm instal
 
 ## Video Walkthrough
 
+[Video Link](https://drive.google.com/file/d/1l0BSlX2x_oXVlFKVokgU9VopcH6u4x5z/view)
 
 
 ## Credits
